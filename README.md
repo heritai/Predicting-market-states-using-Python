@@ -190,3 +190,5 @@ This project demonstrates the application of Hidden Markov Models (HMMs) and the
 *   **Trading Strategy Development:**  Develop and test trading strategies based on the estimated HMM parameters, as suggested in the original paper.
 *   **Extend the model** Add news and events as components of the HMM
 
+**Note:** The images for marke dynamics are taken from the book:
+>Cartea Á, Jaimungal S, Penalva J. Algorithmic and high-frequency trading. Cambridge University Press; 2015 Aug 6.
